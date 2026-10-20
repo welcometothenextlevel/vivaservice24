@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /merci/
+
+Sitemap: https://welcometothenextlevel.github.io/vivaservice24/sitemap.xml

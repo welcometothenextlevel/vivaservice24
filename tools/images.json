@@ -1,0 +1,361 @@
+{
+ "real/equipe-tshirt": {
+  "w": [
+   1360,
+   960,
+   640
+  ],
+  "ratio": [
+   1360,
+   765
+  ]
+ },
+ "real/solaire-toit-vegetal": {
+  "w": [
+   574,
+   420
+  ],
+  "ratio": [
+   574,
+   1020
+  ]
+ },
+ "real/vitres-vxv-barbers": {
+  "w": [
+   574,
+   420
+  ],
+  "ratio": [
+   574,
+   1020
+  ]
+ },
+ "real/poster-solaire-brosse": {
+  "w": [
+   576,
+   400
+  ],
+  "ratio": [
+   576,
+   1024
+  ]
+ },
+ "real/poster-solaire-toit": {
+  "w": [
+   576,
+   400
+  ],
+  "ratio": [
+   576,
+   1024
+  ]
+ },
+ "real/poster-vitrine-1": {
+  "w": [
+   464,
+   400
+  ],
+  "ratio": [
+   464,
+   832
+  ]
+ },
+ "real/poster-vitrine-2": {
+  "w": [
+   464,
+   400
+  ],
+  "ratio": [
+   464,
+   832
+  ]
+ },
+ "real/poster-vitrine-3": {
+  "w": [
+   576,
+   400
+  ],
+  "ratio": [
+   576,
+   1024
+  ]
+ },
+ "ba/vitrine-avant": {
+  "w": [
+   660
+  ],
+  "ratio": [
+   660,
+   495
+  ]
+ },
+ "ba/vitrine-apres": {
+  "w": [
+   660
+  ],
+  "ratio": [
+   660,
+   495
+  ]
+ },
+ "ba/cuisine-avant": {
+  "w": [
+   1200,
+   800
+  ],
+  "ratio": [
+   1500,
+   1125
+  ]
+ },
+ "ba/cuisine-apres": {
+  "w": [
+   1200,
+   800
+  ],
+  "ratio": [
+   1500,
+   1125
+  ]
+ },
+ "ba/sdb-avant": {
+  "w": [
+   1200,
+   800
+  ],
+  "ratio": [
+   2000,
+   1500
+  ]
+ },
+ "ba/sdb-apres": {
+  "w": [
+   1200,
+   800
+  ],
+  "ratio": [
+   2000,
+   1500
+  ]
+ },
+ "stock/appart-vide": {
+  "w": [
+   1600,
+   1200,
+   800
+  ],
+  "ratio": [
+   2000,
+   1333
+  ]
+ },
+ "stock/appart-vide-2": {
+  "w": [
+   1200,
+   800
+  ],
+  "ratio": [
+   1777,
+   1333
+  ]
+ },
+ "stock/four-grille": {
+  "w": [
+   900,
+   600
+  ],
+  "ratio": [
+   2000,
+   2500
+  ]
+ },
+ "stock/douche": {
+  "w": [
+   900,
+   600
+  ],
+  "ratio": [
+   2000,
+   2500
+  ]
+ },
+ "stock/sdb-vapeur": {
+  "w": [
+   1200,
+   800
+  ],
+  "ratio": [
+   1777,
+   1333
+  ]
+ },
+ "stock/evier": {
+  "w": [
+   1200,
+   800
+  ],
+  "ratio": [
+   1777,
+   1333
+  ]
+ },
+ "stock/vitre-raclette": {
+  "w": [
+   900,
+   600
+  ],
+  "ratio": [
+   2000,
+   2500
+  ]
+ },
+ "stock/vitre-chiffon": {
+  "w": [
+   900,
+   600
+  ],
+  "ratio": [
+   2000,
+   2500
+  ]
+ },
+ "stock/bureau": {
+  "w": [
+   1600,
+   1200,
+   800
+  ],
+  "ratio": [
+   2000,
+   1500
+  ]
+ },
+ "stock/escalier": {
+  "w": [
+   900,
+   600
+  ],
+  "ratio": [
+   2000,
+   2500
+  ]
+ },
+ "stock/chantier": {
+  "w": [
+   1600,
+   1200,
+   800
+  ],
+  "ratio": [
+   2000,
+   1333
+  ]
+ },
+ "stock/immeuble": {
+  "w": [
+   1600,
+   1200,
+   800
+  ],
+  "ratio": [
+   2000,
+   1333
+  ]
+ },
+ "stock/haie": {
+  "w": [
+   1200,
+   800
+  ],
+  "ratio": [
+   1777,
+   1333
+  ]
+ },
+ "stock/tags": {
+  "w": [
+   1200,
+   800
+  ],
+  "ratio": [
+   1777,
+   1333
+  ]
+ },
+ "stock/tags-karcher": {
+  "w": [
+   1200,
+   800
+  ],
+  "ratio": [
+   1777,
+   1333
+  ]
+ },
+ "stock/lausanne": {
+  "w": [
+   1800,
+   1200,
+   800
+  ],
+  "ratio": [
+   2000,
+   1125
+  ]
+ },
+ "stock/hero-vitres": {
+  "w": [
+   1600,
+   1000,
+   640
+  ],
+  "ratio": [
+   2000,
+   1125
+  ]
+ },
+ "stock/hero-solaire": {
+  "w": [
+   1600,
+   1000,
+   640
+  ],
+  "ratio": [
+   2000,
+   1125
+  ]
+ },
+ "stock/hero-chantier": {
+  "w": [
+   1600,
+   1000,
+   640
+  ],
+  "ratio": [
+   2000,
+   1125
+  ]
+ },
+ "stock/hero-immeuble": {
+  "w": [
+   1600,
+   1000,
+   640
+  ],
+  "ratio": [
+   2000,
+   1125
+  ]
+ },
+ "stock/hero-poster": {
+  "w": [
+   1600,
+   1280,
+   768
+  ],
+  "ratio": [
+   1600,
+   900
+  ]
+ }
+}
